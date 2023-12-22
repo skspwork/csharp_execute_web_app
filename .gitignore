@@ -1,0 +1,3 @@
+csharp_execute_web_app/obj/*
+csharp_execute_web_app/bin/*
+.vs
